@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\manage_contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\manage_contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|c:\\users\\mahmu\\onedrive\\desktop\\phonebook\\phonebook\\manage_contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\manage_contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\classes\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\classes\\session.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\migrations\\202505231353059_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\migrations\\202505231353059_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\dal\\ef\\phonebookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\dal\\ef\\phonebookcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\show_contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\show_contacts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\login_form.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\dal\\ef\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\dal\\ef\\tables\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\dal\\ef\\tables\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\dal\\ef\\tables\\phonenumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\dal\\ef\\tables\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\dal\\ef\\tables\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\manage_contacts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\manage_contacts.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\userdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\welcome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\resources\\data_security_01.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\resources\\data_security_01.jpg||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\login_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\login_form.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\login_form.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\login_form.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\admindashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\phonebook\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6D3F1B45-4C6E-45BA-B2A5-861B654AE035}|PhoneBook\\PhoneBook.csproj|solutionrelative:phonebook\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "PhoneBook\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:51:56.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Session.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Classes\\Session.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Classes\\Session.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Classes\\Session.cs",
+              "RelativeToolTip": "PhoneBook\\Classes\\Session.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:28:37.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manage_Contacts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Manage_Contacts.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Manage_Contacts.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Manage_Contacts.cs [Design]",
+              "RelativeToolTip": "PhoneBook\\Manage_Contacts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:29:51.966Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Manage_Contacts.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Manage_Contacts.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Manage_Contacts.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Manage_Contacts.cs",
+              "RelativeToolTip": "PhoneBook\\Manage_Contacts.cs",
+              "ViewState": "AgIAAOQAAAAAAAAAAAAAAAsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:43:46.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "202505231353059_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Migrations\\202505231353059_InitialCreate.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Migrations\\202505231353059_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Migrations\\202505231353059_InitialCreate.cs",
+              "RelativeToolTip": "PhoneBook\\Migrations\\202505231353059_InitialCreate.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAQwAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:53:19.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhoneBookContext.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\DAL\\EF\\PhoneBookContext.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\DAL\\EF\\PhoneBookContext.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\DAL\\EF\\PhoneBookContext.cs",
+              "RelativeToolTip": "PhoneBook\\DAL\\EF\\PhoneBookContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:37:37.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Show_Contacts.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Show_Contacts.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Show_Contacts.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Show_Contacts.cs [Design]",
+              "RelativeToolTip": "PhoneBook\\Show_Contacts.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T04:37:20.184Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Registration.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Registration.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Registration.cs [Design]",
+              "RelativeToolTip": "PhoneBook\\Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:10:03.555Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\UserDashboard.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\UserDashboard.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\UserDashboard.cs [Design]",
+              "RelativeToolTip": "PhoneBook\\UserDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:15:55.455Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "welcome.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\welcome.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\welcome.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\welcome.cs [Design]",
+              "RelativeToolTip": "PhoneBook\\welcome.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T04:54:22.611Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login_Form.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Login_Form.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Login_Form.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Login_Form.cs",
+              "RelativeToolTip": "PhoneBook\\Login_Form.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwD4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:02:30.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Login_Form.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Login_Form.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Login_Form.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Login_Form.cs [Design]",
+              "RelativeToolTip": "PhoneBook\\Login_Form.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:33:52.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\DAL\\EF\\Tables\\User.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\DAL\\EF\\Tables\\User.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\DAL\\EF\\Tables\\User.cs",
+              "RelativeToolTip": "PhoneBook\\DAL\\EF\\Tables\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:35:46.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PhoneNumber.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\DAL\\EF\\Tables\\PhoneNumber.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\DAL\\EF\\Tables\\PhoneNumber.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\DAL\\EF\\Tables\\PhoneNumber.cs",
+              "RelativeToolTip": "PhoneBook\\DAL\\EF\\Tables\\PhoneNumber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:37:03.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Contact.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\DAL\\EF\\Tables\\Contact.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\DAL\\EF\\Tables\\Contact.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\DAL\\EF\\Tables\\Contact.cs",
+              "RelativeToolTip": "PhoneBook\\DAL\\EF\\Tables\\Contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T13:36:24.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Manage_Contacts.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Manage_Contacts.Designer.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Manage_Contacts.Designer.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Manage_Contacts.Designer.cs",
+              "RelativeToolTip": "PhoneBook\\Manage_Contacts.Designer.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAiwNIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T06:52:43.42Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UserDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\UserDashboard.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\UserDashboard.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\UserDashboard.cs",
+              "RelativeToolTip": "PhoneBook\\UserDashboard.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAIA8wDIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:16:41.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "welcome.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\welcome.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\welcome.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\welcome.cs",
+              "RelativeToolTip": "PhoneBook\\welcome.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T05:10:54.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Data_security_01.jpg -  [English (United States)] - Bitmap [5209x5209, 24 bit, JPG]",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Resources\\Data_security_01.jpg",
+              "RelativeDocumentMoniker": "PhoneBook\\Resources\\Data_security_01.jpg",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Resources\\Data_security_01.jpg -  [English (United States)] - Bitmap [5209x5209, 24 bit, JPG]",
+              "RelativeToolTip": "PhoneBook\\Resources\\Data_security_01.jpg -  [English (United States)] - Bitmap [5209x5209, 24 bit, JPG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2025-05-24T04:57:06.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Registration.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Registration.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Registration.cs",
+              "RelativeToolTip": "PhoneBook\\Registration.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:45:16.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Login_Form.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Login_Form.Designer.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\Login_Form.Designer.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Login_Form.Designer.cs",
+              "RelativeToolTip": "PhoneBook\\Login_Form.Designer.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwMwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:36:57.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Login_Form.resx",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Login_Form.resx",
+              "RelativeDocumentMoniker": "PhoneBook\\Login_Form.resx",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\Login_Form.resx",
+              "RelativeToolTip": "PhoneBook\\Login_Form.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-23T14:37:09.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AdminDashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\AdminDashboard.cs [Design]",
+              "RelativeToolTip": "PhoneBook\\AdminDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:20:33.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "AdminDashboard.cs",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\AdminDashboard.cs",
+              "RelativeDocumentMoniker": "PhoneBook\\AdminDashboard.cs",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\AdminDashboard.cs",
+              "RelativeToolTip": "PhoneBook\\AdminDashboard.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T14:20:53.199Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\packages.config",
+              "RelativeDocumentMoniker": "PhoneBook\\packages.config",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\packages.config",
+              "RelativeToolTip": "PhoneBook\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-23T13:40:19.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\App.config",
+              "RelativeDocumentMoniker": "PhoneBook\\App.config",
+              "ToolTip": "C:\\Users\\mahmu\\OneDrive\\Desktop\\PhoneBook\\PhoneBook\\App.config",
+              "RelativeToolTip": "PhoneBook\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-05-23T13:35:48.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
