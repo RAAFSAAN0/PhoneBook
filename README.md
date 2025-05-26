@@ -19,10 +19,20 @@ The script automates the following steps:
 
 ### 📦 To Install Dependencies and Run the Test:
 
-#### ✅ Prerequisites:
-- Node.js (v16+)
-- Google Chrome
-- ChromeDriver (installed and added to system PATH)
+#### ✅ Prerequisites
+
+- **[Node.js (v16+)](https://nodejs.org/en/download/)**  
+  JavaScript runtime required to run the automation script.  
+  Download and install for your OS (Windows/macOS/Linux).
+
+- **[Google Chrome](https://www.google.com/chrome/)**  
+  The browser used for executing and verifying Trello UI automation.
+
+- **[ChromeDriver](https://chromedriver.chromium.org/downloads)**  
+  A driver that allows Selenium to control Chrome.  
+  > ⚠️ Make sure to download the version that matches your installed Chrome version and **add it to your system PATH**.
+
+---
 
 #### ✅ Setup and Run:
 ```bash
