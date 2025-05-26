@@ -71,11 +71,3 @@ selenium-test/
 
 **Rafsan Mahmud**  
 📅 Submitted on: May 26, 2025  
-🏢 Deepchain Labs – QA Internship (Round 1)
-
----
-
-## ⚠️ Disclaimer
-
-This test script is for educational and testing purposes only.  
-**Never publish real login credentials in public repositories.**
