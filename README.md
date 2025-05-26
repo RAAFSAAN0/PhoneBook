@@ -1,39 +1,24 @@
-# Trello Selenium Automation Script – Deepchain Labs QA Internship
+# Trello Automation Script
 
-This repository contains a basic Selenium automation script written in JavaScript to test core features of the Trello platform. This is a submission for **Round 1: Technical Test** of the Deepchain Labs QA Internship.
+## Description
+This Selenium WebDriver script automates functional testing of Trello’s web application for the Deepchain Labs QA Internship assignment. It validates two core features: creating a new board (Test Case TC-001) and adding a card to a list (Test Case TC-004).
 
----
+## Test Cases Covered
+- **TC-001: Create a new board**
+  - **Scenario**: Create a new board with a specified name.
+  - **Expected Result**: Board is created and appears on the dashboard within 2 seconds.
+- **TC-004: Add a new card to a list**
+  - **Scenario**: Add a new card with a title to an existing list.
+  - **Expected Result**: Card is added to the list and visible within 1 second.
 
-## ✅ What the Test Is Doing
+## Prerequisites
+- Node.js (v16 or higher): [nodejs.org](https://nodejs.org)
+- Google Chrome (latest version)
+- ChromeDriver: Match Chrome version ([chromedriver.chromium.org](https://chromedriver.chromium.org))
+- Trello account with valid credentials
 
-The script performs the following actions step-by-step:
-
-1. Opens Trello login page.
-2. Logs in using predefined credentials.
-3. Creates a new board titled `Automated Board <timestamp>`.
-4. Adds a list named **"To Do"** to the board.
-5. Adds a card titled **"Write Blog Post"** under that list.
-6. Leaves the browser open for visual confirmation (manual verification).
-
----
-
-## 📦 How to Install Dependencies
-
-### 1. Prerequisites
-
-- **Node.js** (v16+)
-- **Google Chrome** (latest version)
-- **ChromeDriver** installed and added to system PATH
-
-### 2. Installation Steps
-
-```bash
-# Create project folder
-mkdir selenium-test
-cd selenium-test
-
-# Initialize npm project
-npm init -y
-
-# Install Selenium WebDriver
-npm install selenium-webdriver
+## Setup Instructions
+1. Create project directory:
+   ```bash
+   mkdir trello-automation
+   cd trello-automation
